@@ -1,0 +1,13 @@
+PyQt5
+openai
+google-cloud-speech
+google-cloud-texttospeech
+python-dotenv
+pyttsx3
+SpeechRecognition
+psutil
+cryptography
+sqlalchemy
+requests
+schedule
+emoji
